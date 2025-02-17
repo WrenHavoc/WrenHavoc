@@ -5,6 +5,8 @@ Pentester and programmer
 ------------------------
 
 My interest in cybersecurity started when I was 7. I was heavily restricted in what I could do, but I learned as much as I could. I got my first (non-Chromebook) computer when I was 12. Pretty soon after, I installed Linux on it. I hacked my school when I was 14 (I had permission). It was a minor Wi-Fi attack, but I was still so proud of myself. This year, I'm going to do it again, but this time I'll be more ambitious. I'm going after their credit card database (with permission).
+Here's my school account: https://github.com/wrenfromschool
+Mainly I do stuff for the Judge robotics team.
 
 * 🌍  I'm based in Utah
 * 🚀  I'm currently working on [Making locally hosted AI easier](http://github.com/WrenHavoc/localai)
