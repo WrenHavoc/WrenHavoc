@@ -9,7 +9,7 @@ Here's my school account: https://github.com/wrenfromschool
 Mainly I do stuff for the Judge robotics team.
 
 * 🌍  I'm based in Utah
-* 🚀  I'm currently working on [Making locally hosted AI easier](http://github.com/WrenHavoc/localai)
+* 🚀  I'm currently working on [Easter-themed malware because funny](http://github.com/WrenHavoc/bunny)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on small programs and pentests
 
