@@ -1,7 +1,7 @@
 # 💫About Me :
 * 🌍  I'm based in Utah
-* 🚀  I'm currently working on [My Blog](https://github.com/WrenHavoc/CyberInsecurity)
-* 🧠  I'm learning Java
+* 🚀  I'm currently working on AI engineering
+* 🧠  I'm learning AI pentesting and development
 * 🤝  I'm open to collaborating on small programs and pentests
 
 # 💻Tech Stack
