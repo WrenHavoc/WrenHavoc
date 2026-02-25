@@ -1,6 +1,6 @@
 # 💫About Me :
 * 🌍  I'm based in Utah
-* 🚀  I'm currently working on AI engineering
+* 🚀  I'm currently working on web development and server managment for JudgeMent Call Robotics
 * 🧠  I'm learning AI pentesting and development
 * 🤝  I'm open to collaborating on small programs and pentests
 
